@@ -1,4 +1,4 @@
-# object-tracking-uding-yolov8
+# object-tracking-using-yolov8
 
 
 
